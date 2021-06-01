@@ -52,7 +52,7 @@ class myApp extends StatelessWidget {
                     color: Colors.teal.shade800,
                   ),
                   title: Text(
-                    '+82 10 2181 9664',
+                    '+82 10 2181 ****',
                     style: TextStyle(
                         color: Colors.teal.shade800,
                         fontFamily: 'SourceSansPro',
